@@ -16,3 +16,12 @@
 - [Windows Launcher](v20251210-084244/megatac-launcher-windows.exe)
 - [Game JAR](v20251210-084244/megatac-1.0.0.jar)
 
+## v20251210-090530 - 2025-12-10 09:05:30 UTC
+
+### Downloads
+- [Linux Full Distribution](v20251210-090530/megatac-linux-v20251210-090530.tar.gz)
+- [Windows Full Distribution](v20251210-090530/megatac-windows-v20251210-090530.zip)
+- [Linux Launcher](v20251210-090530/megatac-launcher-linux)
+- [Windows Launcher](v20251210-090530/megatac-launcher-windows.exe)
+- [Game JAR](v20251210-090530/megatac-1.0.0.jar)
+
